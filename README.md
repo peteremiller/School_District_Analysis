@@ -11,6 +11,10 @@ The purpose of this analysis is to find the overall passing percentages of the s
 
 
 ## Results
+Below is a picture of PyCity School District. The school we are focusing on is Thomas High School. THS is a charter shcool and is 
+
+<img src="Resources/pycity.png">
+
 The PyCity district summary was affected by removing the ninth grade student scores in math and reading. In the pictures below you will see that the 
 
 
