@@ -11,24 +11,24 @@ The purpose of this analysis is to find the overall passing percentages of the s
 
 
 ## Results
-Below is a picture of PyCity School District. The school we are focusing on is Thomas High School. THS is a charter shcool and is 
+Below is a picture of PyCity School District. The school we are focusing on is Thomas High School. THS is a charter school and is in the under 2000 student category.
 
 <img src="Resources/pycity.png">
+To better understand how the removal of ninth grade math and reading scores have impacted the analysis I will pose a few questions:
 
-The PyCity district summary was affected by removing the ninth grade student scores in math and reading. In the pictures below you will see that the 
+# How is the district school summary affected?
+
+The PyCity district summary was affected by removing the THS ninth grade student scores in math and reading. In the pictures below you will see that the scores for charter schools were higher for percent passing math and percent passing reading. Removing the THS student scores lowered the percentages for the entire school disctrict by 4%. 
 
 
 <img src="Resources/ninthin.png"> 
 <img src="Resources/ninthout.png">
-After taking a look at both district summaries from pycityschools and pycityschools_challenge there is not a change.
+
 
 #How is the school summary affected?
 
-The over all passing for Thomas High School was 90.94% in pycityschools, with the 9th graders taken out the overall passing shrinks by 0.3 %.
-
 #How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-Overall it does not affect either the reading scores or math scores. We are doing an investigation because we believe they are not including most of the 9th graders scores because they might bring the school even further down in test scores.
 
 #How does replacing the ninth-grade scores affect the following: #Math and reading scores by grade
 
