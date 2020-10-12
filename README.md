@@ -58,3 +58,38 @@ Scores by school spending
 Scores by school size
 Scores by school type
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+_____________________________________________________________________________________________________________________________
+
+PyCity Schools Data Summary
+As a whole, schools with higher budgets, did not yield better test results. By contrast, schools with higher spending per student actually ($645-675) underperformed compared to schools with smaller budgets (<$585 per student).
+
+As a whole, smaller and medium sized schools dramatically out-performed large sized schools on passing math performances (89-91% passing vs 67%).
+
+As a whole, charter schools out-performed the public district schools across all metrics. However, more analysis will be required to glean if the effect is due to school practices or the fact that charter schools tend to serve smaller student populations per school.
+
+__________________________________________________________________________________________________________________________________________
+
+Schools that spend between 585-615 dollars per student have a better percent passing reading, percent passing math, and percent overall passing rate than schools that spend more than 615 dollars per student. Also, those schools that spend less per student are smaller schools with 2,000 students or less.
+It is also found that the schools with 2000 students or less have a higher percent passing reading, percent passing math, and percent overall passing rate than larger schools that have 2000 – 5000 students. Furthermore, the smaller the school, the less they spend per student.
+With that being said,Charter schools have a higher percent passing reading, percent passing math, and percent overall passing rate than District schools. Thus being the top five performing schools based on percent passing rates, whereas the bottom five performing schools based on percent passing rate are District schools.
+In all 15 schools, the Average Reading Score is higher than the Average Math Score.
+Lasly, for the top 5 performing schools, the percent passing math is about 20 percent lower than the percent passing reading.
+
+_________________________________________________________________________________________________________________________________________
+
+Two clear trends appear in the data:
+
+Charter schools performed better than district schools. The average charter math and reading scores showed a respective 5 point and 3 point edge over the district schools, resulting in a math passing rate over 25 percentage points higher, and a reading passing rate over 15 points higher.
+Smaller schools--measured by total students, total budget, or, most surprisingly, budget per student--had better math and reading test scores than larger schools. In each size analysis, the bottom two quintiles' schools' test scores were over 5 points better in math, and over 3 points better in reading than the larger schools. This translated into passing rates for math and reading 20 and 10 percentage points higher, respectively, in the two smallest-quintile schools.
+One complicating wrinkle is that the charter schools are all smaller. Wilson High, the largest charter school, serves almost 500 fewer students than Ford High, the smallest district school.
+
+One argument against directly attributing better scores to school size: the charter schools' better scores do not vary by school size. The district schools' scores vary little by school size as well.
+
+The next challenge is to determine whether there is a systematic difference in the composition of the charter school student population versus the district school student population.
+
+Two observations:
+
+Squashing the SettingWithCopyWarning issue was tricky. I most benefited from
+This explanation and
+the suggestion to use df.copy().
+It's frustrating that some Jupyter Notebook tables don't display correctly in GitHub.
