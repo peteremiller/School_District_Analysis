@@ -1,3 +1,5 @@
+<img src="truth.png">
+
 # School_District_Analysis
 Analysis of math and reading grades for school district to use in creating future budgets.
 The purpose of our analysis is to find the overall passing percentages of the students and see if there is any correlation with the budget per student. What we have found is that some of the test scores from the 9th grade at Thomas High School are missing. Since these values are missing we want to take all of the scores from the high school so that it doesn't affect our overall numbers.
