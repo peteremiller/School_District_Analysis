@@ -14,7 +14,8 @@ The purpose of this analysis is to find the overall passing percentages of the s
 The PyCity district summary was affected by removing the ninth grade student scores in math and reading. In the pictures below you will see that the 
 
 
-<img src="Resources/ninthin.jpg"> <img src="Resources/ninthout.jpg">
+<img src="Resources/ninthin.jpg"> 
+<img src="Resources/ninthout.jpg">
 After taking a look at both district summaries from pycityschools and pycityschools_challenge there is not a change.
 
 #How is the school summary affected?
