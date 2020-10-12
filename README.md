@@ -16,7 +16,7 @@ Below is a picture of PyCity School District. The school we are focusing on is T
 <img src="Resources/pycity.png">
 To better understand how the removal of ninth grade math and reading scores have impacted the analysis I will pose a few questions:
 
-# How is the district school summary affected?
+### How is the district school summary affected?
 
 The PyCity district summary was affected by removing the THS ninth grade student scores in math and reading. In the pictures below you will see that the scores for charter schools were higher for percent passing math and percent passing reading. Removing the THS student scores lowered the percentages for the entire school disctrict by 4%. 
 
