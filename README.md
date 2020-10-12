@@ -1,6 +1,8 @@
 <img src="Resources/readmeimage2.jpg">
 
-# PyCity Schools: School District Analysis Overview
+# PyCity Schools: School District Analysis 
+
+## Overview
 Maria, the Chief Data Scientist for PyCity School District, has requested my help analyzing data on student funding and student's standardized test scores. The task is to aggregate the student data and showcase trends in performance to assist the School Board and Superintendent in making decisions regarding school budgets and priorities. 
 
 Maria was notified by the school board that the analysis we initially completed shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked me to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. After I replaced the math and reading scores, I repeated the school district analysis and a m now prepared to present this written report that will describe how these changes affected the overall analysis. 
@@ -8,9 +10,11 @@ Maria was notified by the school board that the analysis we initially completed 
 The purpose of this analysis is to find the overall passing percentages of the students and see if there is any correlation with the budget per student. 
 
 
-# Results
-#How is the district summary affected?
+## Results
+The PyCity district summary was affected by removing the ninth grade student scores in math and reading. In the pictures below you will see that the 
 
+
+<img src="Resources/ninthin.jpg"> <img src="Resources/ninthout.jpg">
 After taking a look at both district summaries from pycityschools and pycityschools_challenge there is not a change.
 
 #How is the school summary affected?
