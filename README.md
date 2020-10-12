@@ -1,4 +1,4 @@
-<img src="truth.png">
+<img src="Resources/readmeimage2.jpg">
 
 # School_District_Analysis
 Analysis of math and reading grades for school district to use in creating future budgets.
