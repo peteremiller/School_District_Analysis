@@ -28,10 +28,10 @@ The PyCity district summary was affected by removing the THS ninth grade student
 ### How is the school summary affected?
 
 
-#How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 
-#How does replacing the ninth-grade scores affect the following: #Math and reading scores by grade
+### How does replacing the ninth-grade scores affect the following: ## Math and reading scores by grade
 
 The only difference now between the scores is that under 9th graders who attended Thomas High School it shows an NaN.
 
